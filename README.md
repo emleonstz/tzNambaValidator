@@ -11,7 +11,7 @@ you can modify it per your needs by editing the file from src/ValidateNamba.php
 To use this library, you need to have [Composer](https://getcomposer.org/) installed in your system. Once you have Composer installed, you can download the library by running the following command:
 
 ```
-composer require emleons/tznamba
+composer require emleons/tz_namba
 ```
 
 ## Usage

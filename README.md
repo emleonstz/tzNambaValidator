@@ -30,7 +30,7 @@ if($test->validate($phone)){
 }else{
     echo $phone." is an invalid phone".'<br>';
 }
-//sometimes you may want to remove prifix from phone numbers to do it use the emove_tz_prefix() method and pass your phone that follows accepted format
+//sometimes you may want to remove prefix from phone numbers to do it use the emove_tz_prefix() method and pass your phone that follows accepted format
 $removed_prefix = $test->remove_tz_prefix($phone);
 echo "Removed prefix from ".$phone." to ".$removed_prefix;
 ```

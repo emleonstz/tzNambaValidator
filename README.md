@@ -2,9 +2,9 @@
 
 This is a simple PHP library for validating Tanzania phone numbers. It uses check if a given phone number is well formated.
 by default it accepts the following fomarts:
-+255656413291
-255656413291
-0656413291
++255956413291
+255696413291
+0656913291
 you can modify it per your needs by editing the file from src/ValidateNamba.php
 ## Installation
 

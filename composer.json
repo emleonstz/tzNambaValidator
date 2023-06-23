@@ -1,8 +1,7 @@
 {
     "name": "emleons/tz_namba",
     "description": "Simple php class to validate Tanzania phone numbers by cheking if it is well formated",
-    "type": "library",
-    "version": "1.0.0",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -16,5 +15,6 @@
         }
     ],
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "require": {}
 }

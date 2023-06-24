@@ -16,7 +16,7 @@ composer require emleons/tz_namba
 
 ## Usage
 
-Here is an example of how to use the library to validate a phone number:
+Here is an example of how to use it:
 
 ```php 
 require('vendor/autoload.php');
@@ -37,7 +37,7 @@ echo "Removed prefix from ".$phone." to ".$removed_prefix;
 
 ## Contributions
 
-If you find a bug or have a feature request, please open an issue or submit a pull request on GitHub.
+If you find a bug or have a feature request, please open an issue or submit a pull request.
 
 ## Credits
 
